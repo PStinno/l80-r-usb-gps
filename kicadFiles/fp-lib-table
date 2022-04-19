@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Quectel_L80-R)(type KiCad)(uri "$(KIPRJMOD)/Quectel_L80-R.pretty")(options "")(descr ""))
+  (lib (name Amphenol_Micro_USB)(type KiCad)(uri "$(KIPRJMOD)/Amphenol_Micro_USB.pretty")(options "")(descr ""))
+  (lib (name M3_Mounting_Hole)(type KiCad)(uri "$(KIPRJMOD)/M3_Mounting_Hole.pretty")(options "")(descr ""))
+)
